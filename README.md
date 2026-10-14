@@ -86,16 +86,16 @@ The `visualizations/` folder contains:
 4. `04_training_time_comparison.png` — compares training time.
 
 ### Model metric comparison
-![Model metric comparison](visualizations/01_model_metric_comparison.png)
+![Model metric comparison](01_model_metric_comparison.png)
 
 ### Confusion matrices
-![Confusion matrices](visualizations/02_confusion_matrices.png)
+![Confusion matrices](02_confusion_matrices.png)
 
 ### DistilBERT training and validation loss
-![DistilBERT training and validation loss](visualizations/03_distilbert_training_loss.png)
+![DistilBERT training and validation loss](03_distilbert_training_loss.png)
 
 ### Training-time comparison
-![Training-time comparison](visualizations/04_training_time_comparison.png)
+![Training-time comparison](04_training_time_comparison.png)
 
 ## 7. Tools and Technologies
 - Python
